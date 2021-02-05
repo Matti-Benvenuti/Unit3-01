@@ -1,14 +1,14 @@
 #header{
-text-align: center;
-font-family: "Times New Roman", "Serif";
-color: rebeccapurple;
+  text-align: center;
+  font-family: "Times New Roman", "Serif";
+  color: rebeccapurple;
 }
-.rando-text {
+.rando-text{
   font-family: "Arial", "Sans-serif";
-  color: goldenrod
+  color: goldenrod;
 }
-.cooler-rando-text {
-  font-family: "Arial", "Sans-serif" ;
-  text-align: right ;
-  color: darkblue
+.cooler-rando-text{
+  font-family: "Arial", "Sans-serif";
+  text-align: right;
+  color: darkblue;
 }
