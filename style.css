@@ -1,16 +1,16 @@
 #header {
   text-align: center;
-  font-family: "Times New Roman", "Georgia", "Serif";
+  font-family: "Times New Roman", "Times", "Serif";
   color: rebeccapurple;
 }
 
 .rando-text {
   font-family: "Arial", "Helvetica", "Sans-serif";
-  color: goldenrod;
+  color: darkblue;
 }
 
 .cooler-rando-text {
   font-family: "Arial", "Helvetica", "Sans-serif";
   text-align: right;
-  color: darkblue;
+  color: gold;
 }
